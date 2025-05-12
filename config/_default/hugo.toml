@@ -28,4 +28,4 @@ pagerSize = 10
 
 [caches]
   [caches.images]
-    dir = ':=cacheDir/images'
+    dir = ':cacheDir/images'
