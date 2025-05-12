@@ -1,0 +1,128 @@
+[[main]]
+  name = "Log Hours"
+  url = "log-hours/"
+  weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Member Info"
+  identifier = "MemberInfoParent"
+  weight = -108
+[[main]]
+  parent = "MemberInfoParent"
+  name = "Garden Map"
+  url = "#"
+[[main]]
+  parent = "MemberInfoParent"
+  name = "Member Roster"
+  url = "#"
+[[main]]
+  parent = "MemberInfoParent"
+  name = "Project Teams"
+  url = "#"
+[[main]]
+  parent = "MemberInfoParent"
+  name = "Straw"
+  url = "#"
+[[main]]
+  parent = "MemberInfoParent"
+  name = "Tools"
+  url = "#"
+[[main]]
+  parent = "MemberInfoParent"
+  name = "Event Planning"
+  url = "#"
+[[main]]
+  parent = "MemberInfoParent"
+  name = "Reimbursement"
+  url = "#"
+[[main]]
+  parent = "MemberInfoParent"
+  name = "Finances"
+  url = "#"
+
+
+[[main]]
+  name = "Garden Teams"
+  identifier = "GardenTeamsParent"
+  weight = -107
+[[main]]
+  parent = "GardenTeamsParent"
+  name = "Bees"
+  url = "#"
+[[main]]
+  parent = "GardenTeamsParent"
+  name = "Orchard"
+  url = "#"
+[[main]]
+  parent = "GardenTeamsParent"
+  name = "Bokashi"
+  url = "#"
+[[main]]
+  parent = "GardenTeamsParent"
+  name = "Community Flower Station"
+  url = "#"
+[[main]]
+  parent = "GardenTeamsParent"
+  name = "Garlic"
+  url = "#"
+
+
+[[main]]
+  name = "Pest Management"
+  identifier = "PestManagementParent"
+  weight = -106
+[[main]]
+  parent = "PestManagementParent"
+  name = "Early Tomato Blight"
+  url = "#"
+[[main]]
+  parent = "PestManagementParent"
+  name = "Japanese Beetles"
+  url = "#"
+[[main]]
+  parent = "PestManagementParent"
+  name = "Garlic Fire Spray"
+  url = "#"
+[[main]]
+  parent = "PestManagementParent"
+  name = "Puncturevine (Goat Head)"
+  url = "#"
+[[main]]
+  parent = "PestManagementParent"
+  name = "Noxious vs Annoying Weeds"
+  url = "#"
+
+[[main]]
+  name = "Contact"
+  url = "contact-us/"
+  weight = -105
+
+
+
+# social menu links
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/rosedale-community-garden"
+[[social]]
+  name = "rss"
+  weight = 2
+  url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
+# name = "discord"
+# url = "https://discord.gg/#"
+# name = "bluesky"
+# url = "https://bsky.app/profile/#"
