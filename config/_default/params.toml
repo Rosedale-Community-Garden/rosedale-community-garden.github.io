@@ -43,7 +43,7 @@ usePageBundles = false
 # Images:
 imagesDir = "images/" # without a leading forward slash
 # Icons:
-iconsDir = "icons/" # without a leading forward slash
+iconsDir = "logos/" # without a leading forward slash
 # Fonts:
 fontsDir = "fonts/" # without a leading forward slash
 
@@ -89,7 +89,7 @@ enforceLightMode = false
 # enforceDarkMode = false
 
 # customize footer icon. see issue https://github.com/chipzoller/hugo-clarity/issues/77
-# footerLogo = "icons/favicon-256x256.png"
+footerLogo = "logos/favicon-256x256.png"
 
 # Customize Sidebar Disclaimer Text
 # sidebardisclaimer = true
