@@ -1,6 +1,6 @@
 [[main]]
   name = "Log Hours"
-  url = "log-hours/"
+  url = "https://www.trackitforward.com/site/rosedale-community-garden"
   weight = -109
 
 # Submenus are done this way: parent -> identifier
