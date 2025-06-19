@@ -75,23 +75,23 @@
 [[main]]
   parent = "PestManagementParent"
   name = "Early Tomato Blight"
-  url = "#"
+  url = "pest-management/early-tomato-blight/"
 [[main]]
   parent = "PestManagementParent"
   name = "Japanese Beetles"
-  url = "#"
+  url = "pest-management/japanese-beetles/"
 [[main]]
   parent = "PestManagementParent"
   name = "Garlic Fire Spray"
-  url = "#"
+  url = "pest-management/garlic-fire-spray/"
 [[main]]
   parent = "PestManagementParent"
   name = "Puncturevine (Goat Head)"
-  url = "#"
+  url = "pest-management/puncturevine-goat-head/"
 [[main]]
   parent = "PestManagementParent"
   name = "Noxious vs Annoying Weeds"
-  url = "#"
+  url = "pest-management/noxious-vs-annoying-weeds/"
 
 [[main]]
   name = "Contact"
