@@ -11,35 +11,35 @@
 [[main]]
   parent = "MemberInfoParent"
   name = "Garden Map"
-  url = "#"
+  url = "/member-info/garden-map/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Member Roster"
-  url = "#"
+  url = "/member-info/member-roster/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Project Teams"
-  url = "#"
+  url = "/member-info/project-teams/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Straw"
-  url = "#"
+  url = "/member-info/straw/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Tools"
-  url = "#"
+  url = "/member-info/tools/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Event Planning"
-  url = "#"
+  url = "/member-info/event-planning/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Reimbursement"
-  url = "#"
+  url = "/member-info/reimbursement/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Finances"
-  url = "#"
+  url = "/member-info/finances/"
 
 
 [[main]]
