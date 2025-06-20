@@ -37,3 +37,6 @@ yarn-error.log*
 
 # Hugo server files
 hugo_stats.json
+
+#SQL
+*.sql
