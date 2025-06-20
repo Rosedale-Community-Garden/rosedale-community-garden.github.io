@@ -1,25 +1,11 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Rosedale Community Garden"
+date = "2025-06-20"
+aliases = ["about-us"]
+author = "Rosedale Community Garden"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Rosedale Garden was founded in 1976. Rosedale is the second largest Denver Urban Gardens Member at 3 acres and 100 full size plots. Rosedale is an organic community garden. DUG's vision is to provide a  sustainable urban future where people are deeply and directly connected to the earth, each other, and the food they eat. DUG's mission is provide access, skills, and resources for people to grow healthy food in community and regenerate urban green spaces. RCG is proud to have followed this vision and mission for almost 50 years.  
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Rosedale is located adjacent to Harvard Gulch Park near the intersection of Iliff and Logan. 
