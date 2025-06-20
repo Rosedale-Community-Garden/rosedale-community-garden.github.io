@@ -4,7 +4,7 @@ enableSearch = true
 # socials
 twitter = "@janedoe"
 largeTwitterCard = false                                                                          # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Rosedale Community Garden was founded in 1976, is the second largest Denver Urban Garden Member, and is an organic community garden"
+introDescription = "Rosedale Community Garden was founded in 1976, is the second largest Denver Urban Garden Member."
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 # keywords = ["community garden", "urban gardening", "local gardening intitiatives", "sustainable gardening", "organic community garden"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
