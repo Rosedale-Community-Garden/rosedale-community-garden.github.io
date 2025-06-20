@@ -1,6 +1,6 @@
 [[main]]
   name = "Log Hours"
-  url = "log-hours/"
+  url = "https://www.trackitforward.com/site/rosedale-community-garden"
   weight = -109
 
 # Submenus are done this way: parent -> identifier
@@ -11,35 +11,35 @@
 [[main]]
   parent = "MemberInfoParent"
   name = "Garden Map"
-  url = "#"
+  url = "/member-info/garden-map/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Member Roster"
-  url = "#"
+  url = "/member-info/member-roster/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Project Teams"
-  url = "#"
+  url = "/member-info/project-teams/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Straw"
-  url = "#"
+  url = "/member-info/straw/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Tools"
-  url = "#"
+  url = "/member-info/tools/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Event Planning"
-  url = "#"
+  url = "/member-info/event-planning/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Reimbursement"
-  url = "#"
+  url = "/member-info/reimbursement/"
 [[main]]
   parent = "MemberInfoParent"
   name = "Finances"
-  url = "#"
+  url = "/member-info/finances/"
 
 
 [[main]]
@@ -49,23 +49,23 @@
 [[main]]
   parent = "GardenTeamsParent"
   name = "Bees"
-  url = "#"
+  url = "garden-teams/bees/"
 [[main]]
   parent = "GardenTeamsParent"
   name = "Orchard"
-  url = "#"
+  url = "garden-teams/orchard/"
 [[main]]
   parent = "GardenTeamsParent"
   name = "Bokashi"
-  url = "#"
+  url = "garden-teams/bokashi/"
 [[main]]
   parent = "GardenTeamsParent"
   name = "Community Flower Station"
-  url = "#"
+  url = "garden-teams/community-flower-station/"
 [[main]]
   parent = "GardenTeamsParent"
   name = "Garlic"
-  url = "#"
+  url = "garden-teams/garlic/"
 
 
 [[main]]
@@ -75,23 +75,23 @@
 [[main]]
   parent = "PestManagementParent"
   name = "Early Tomato Blight"
-  url = "#"
+  url = "pest-management/early-tomato-blight/"
 [[main]]
   parent = "PestManagementParent"
   name = "Japanese Beetles"
-  url = "#"
+  url = "pest-management/japanese-beetles/"
 [[main]]
   parent = "PestManagementParent"
   name = "Garlic Fire Spray"
-  url = "#"
+  url = "pest-management/garlic-fire-spray/"
 [[main]]
   parent = "PestManagementParent"
   name = "Puncturevine (Goat Head)"
-  url = "#"
+  url = "pest-management/puncturevine-goat-head/"
 [[main]]
   parent = "PestManagementParent"
   name = "Noxious vs Annoying Weeds"
-  url = "#"
+  url = "pest-management/noxious-vs-annoying-weeds/"
 
 [[main]]
   name = "Contact"
@@ -102,14 +102,10 @@
 
 # social menu links
 [[social]]
-  name = "github"
-  type = "social"
-  weight = 1
-  url = "https://github.com/rosedale-community-garden"
-[[social]]
-  name = "rss"
-  weight = 2
-  url = "index.xml"
+  #name = "github"
+  #type = "social"
+  #weight = 1
+  #url = "https://github.com/rosedale-community-garden"
 
 # other supported social links
 # name = "youtube"
