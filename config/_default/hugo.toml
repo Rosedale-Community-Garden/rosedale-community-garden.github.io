@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://rosedalegarden.org/" # Include trailing slash
+baseurl = "https://preview.rosedalegarden.org/" # Include trailing slash
 title = "Rosedale Community Garden"
 copyright = "Rosedale Community Garden"
 # canonifyurls = true
